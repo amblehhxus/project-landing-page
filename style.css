@@ -81,13 +81,13 @@ ul a, h1 a {
 }
 
 img {
-    width: 300px;
-    height: 200px;
+    width: 250px;
+    height: 150px;
     border-radius: 8px;
 }
 
 .main {
-    font-size: 60px;
+    font-size: 48px;
     font-weight: bolder;
     color: #f9faf8;
     display: flex;
@@ -129,7 +129,7 @@ button {
 }
 
 .info a {
-    font-size: 36px;
+    font-size: 32px;
     font-weight: bolder;
     color: #1f2937;
     display: flex;
@@ -154,8 +154,8 @@ button {
 }
 
 .container a {
-    font-size: 16px;
-    max-width: 300px;
+    font-size: 14px;
+    max-width: 200px;
 }
 
 .quote {
@@ -178,14 +178,14 @@ button {
 }
 
 .desc {
-    font-size: 32px;
+    font-size: 24px;
     font-weight: lighter;
     font-style: italic;
     text-align: justify;
 }
 
 .name {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 700;
     text-align: right;
 }
